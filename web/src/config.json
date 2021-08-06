@@ -1,0 +1,9 @@
+{
+    "API_URL": "//localhost/api",
+    "endpoints": {
+        "REGISTER": "/auth/register",
+        "LOGIN": "/auth/login",
+        "REFRESH_TOKEN": "/auth/refreshtoken",
+        "GET_CURRENT_USER": "/users/@me"
+    }
+}
